@@ -39,9 +39,20 @@ public class main {
         switch (opcion) {
             case 1:
                 
+            case 2:
+            
+            case 3:
+            
+            case 4:
+                System.out.println("Andry");
+
+                System.out.println("Ramirez");
+
+                System.out.println("Profesor");
                 break;
-            default:
-                throw new AssertionError();
+
+
+
         }
 
 
